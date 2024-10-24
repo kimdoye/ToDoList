@@ -1,1 +1,4 @@
-Cool To Do List
+# To Do List
+This is a To Do List
+
+kimdoye@umich.edu
